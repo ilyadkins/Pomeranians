@@ -1,0 +1,11 @@
+h1{color: rgb(39, 31, 201);}
+h1{text-align: center;}
+h1{font-size: 100px;}
+button{color: blue;}
+div{color: rgb(69, 228, 228);}
+section {display: flex; justify-content: space-between;}
+img {width: 200px;}
+body{
+    background-color: grey;
+    opacity: 0.8;
+  }
