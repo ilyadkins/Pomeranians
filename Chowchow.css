@@ -1,0 +1,19 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    text-align: center;
+    color:olive;
+    font-size: 100px;
+}
+
+section {display: flex; justify-content: space-between;}
+
+img {width: 200px;}
+
+button{color:olive;}
+
+div{color:olive}
+
+
